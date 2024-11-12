@@ -8,6 +8,10 @@ Je suis Data Analyst chez **Laplace Immo**, un réseau national d’agences immo
 
 La **CTO** de l’entreprise, **Clara Daucourt**, est en charge du projet. Elle m’a confié la mission de modifier la base de données existante pour y intégrer de nouvelles informations et d'en analyser les données afin de créer un modèle de prévision des prix.
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DA_projet3.PNG)
+
 ## Objectifs du Projet
 
 1. **Préparation du Dictionnaire des Données** : Créer un dictionnaire des données qui répertorie et décrit les informations importantes extraites de différentes sources :
