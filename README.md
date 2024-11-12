@@ -2,15 +2,15 @@
 Créez et utilisez une base de données immobilière avec SQL
 # DATAImmo - Modélisation et Analyse des Données Immobilières
 
+## Aperçu de l'entreprise
+
+![Aperçu du site web](images/DA_projet3.PNG)
+
 ## Contexte
 
 Je suis Data Analyst chez **Laplace Immo**, un réseau national d’agences immobilières. Le directeur général de l'entreprise souhaite exploiter les données pour améliorer la compétitivité de l'agence sur le marché immobilier. Ce projet, appelé **DATAImmo**, vise à modéliser et à analyser les données pour prédire les prix de vente des biens immobiliers et permettre aux agences régionales de mieux conseiller leurs clients.
 
 La **CTO** de l’entreprise, **Clara Daucourt**, est en charge du projet. Elle m’a confié la mission de modifier la base de données existante pour y intégrer de nouvelles informations et d'en analyser les données afin de créer un modèle de prévision des prix.
-
-## Aperçu de l'entreprise
-
-![Aperçu du site web](images/DA_projet3.PNG)
 
 ## Objectifs du Projet
 
