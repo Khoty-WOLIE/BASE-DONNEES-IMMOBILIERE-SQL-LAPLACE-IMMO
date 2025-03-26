@@ -2,8 +2,6 @@
 
 ![Aperçu du site web](images/DA_projet3.PNG)
 
-# BASE-DONNEES-IMMOBILIERE-SQL-LAPLACE-IMMO
-
 ## 📌 Contexte professionnel
 
 Dans le cadre d’un projet stratégique mené au sein de **Laplace Immo**, réseau national d’agences immobilières, j’ai été chargé par la **CTO, Clara Daucourt**, de participer à la modernisation et l’exploitation des données internes.  
